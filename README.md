@@ -9,7 +9,7 @@ CS에 대해 공부하고 정리해보고자 합니다.
 |목차|수강일자|
 |--|--|
 | [1강. Computer System Overview 1](https://leechamin.tistory.com/503) |2021.07.23|
-|[2 ~ 4강. OS Overview 1 ~ 3](https://leechamin.tistory.com/508?category=1012929)|2021.08.09|
+| [2 ~ 4강. OS Overview 1 ~ 3](https://leechamin.tistory.com/508?category=1012929) |2021.08.09|
 
 # Network
 
@@ -24,3 +24,4 @@ CS에 대해 공부하고 정리해보고자 합니다.
 | [5강. 전송계층 1](https://leechamin.tistory.com/451) |2021.05.24|
 | [6강. 전송계층 2](https://leechamin.tistory.com/454) |2021.05.31|
 | [7강. 전송계층 3](https://leechamin.tistory.com/482) |2021.06.29|
+| [8강. 전송계층 4](https://leechamin.tistory.com/511) |2021.08.09|
