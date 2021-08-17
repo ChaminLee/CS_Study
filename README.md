@@ -12,6 +12,7 @@ CS에 대해 공부하고 정리해보고자 합니다.
 | [2 ~ 4강. OS Overview 1 ~ 3](https://leechamin.tistory.com/508?category=1012929) |2021.08.09|
 | [5 ~ 6강. Process Management 1 ~ 2](https://leechamin.tistory.com/516#%ED%--%--%EB%A-%-C%EC%--%B-%EC%-A%A-%EC%-D%--%--%EC%--%--%ED%--%-C)| 2021.08.11 |
 | [7강. Thread Management](https://leechamin.tistory.com/517) |2021.08.13|
+| [8강. Process Schedulinng 1](https://leechamin.tistory.com/520)|2021.08.17|
 
 # Network
 
