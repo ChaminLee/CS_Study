@@ -28,3 +28,4 @@ CS에 대해 공부하고 정리해보고자 합니다.
 | [6강. 전송계층 2](https://leechamin.tistory.com/454) |2021.05.31|
 | [7강. 전송계층 3](https://leechamin.tistory.com/482) |2021.06.29|
 | [8강. 전송계층 4](https://leechamin.tistory.com/511) |2021.08.09|
+| 9강. 네트워크 계층 1 |2021.08.17|
