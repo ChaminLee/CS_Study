@@ -14,6 +14,9 @@ CS에 대해 공부하고 정리해보고자 합니다.
 | [7강. Thread Management](https://leechamin.tistory.com/517) |2021.08.13|
 | [8강. Process Scheduling 1](https://leechamin.tistory.com/520)|2021.08.17|
 | [9강. Process Scheduling 2](https://leechamin.tistory.com/525)|2021.08.19|
+| [10강. Process Scheduling 3](https://leechamin.tistory.com/526)|2021.08.23|
+
+
 
 # Network
 
