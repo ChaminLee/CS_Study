@@ -17,6 +17,7 @@ CS에 대해 공부하고 정리해보고자 합니다.
 | [10강. Process Scheduling 3](https://leechamin.tistory.com/526)|2021.08.23|
 | [11강. Process Scheduling 4](https://leechamin.tistory.com/530)|2021.08.28|
 | [12강. Process Synchronization and Mutual Exclusion 1](https://leechamin.tistory.com/533)|2021.09.01|
+| [13강. Process Synchronization and Mutual Exclusion 2](https://leechamin.tistory.com/537)|2021.09.07|
 
 
 
