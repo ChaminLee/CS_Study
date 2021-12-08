@@ -11,7 +11,7 @@ CS에 대해 공부하고 정리해보려고 합니다
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
 |✅|[1. 강의 소개](https://github.com/ChaminLee/CS_Study/blob/main/OS/1.%20%EA%B0%95%EC%9D%98%20%EC%86%8C%EA%B0%9C.md)|28:14|2021.12.08|
-||2. Introduction to Operating Systems|1:08:20| |
+|✅|[2. Introduction to Operating Systems](https://github.com/ChaminLee/CS_Study/blob/main/OS/2.%20Introduction%20to%20Operating%20Systems.md)|1:08:20|2021.12.08|
 
 ### 2주차 
 
