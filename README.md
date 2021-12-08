@@ -10,91 +10,91 @@ CS에 대해 공부하고 정리해보려고 합니다
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-||1. 강의 소개|24:14| ||
-||2. Introduction to Operating Systems|1:08:20| ||
+|✅|[1. 강의 소개](https://github.com/ChaminLee/CS_Study/blob/main/OS/1.%20%EA%B0%95%EC%9D%98%20%EC%86%8C%EA%B0%9C.md)|28:14|2021.12.08|
+||2. Introduction to Operating Systems|1:08:20| |
 
 ### 2주차 
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-||3. System Structure & Program Execution 1|52:58| ||
-||4. System Structure & Program Execution 2|57:25| ||
+||3. System Structure & Program Execution 1|52:58| |
+||4. System Structure & Program Execution 2|57:25| |
 
 ### 3주차 
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-||3. Process 1|52:58| ||
-||4. Process 2|15:30| ||
-||5. Process 3|14:55| ||
+||3. Process 1|52:58| |
+||4. Process 2|15:30| |
+||5. Process 3|14:55| |
 
 ### 4주차 
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-||6. Process Management 1|10:36| ||
-||7. Process Management 2|1:06:27| ||
+||6. Process Management 1|10:36| |
+||7. Process Management 2|1:06:27| |
 
 
 ### 5주차 
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-||8. CPU Scheduling 1|1:04:26| ||
-||9-1. CPU Scheduling 2|38:56| ||
+||8. CPU Scheduling 1|1:04:26| |
+||9-1. CPU Scheduling 2|38:56| |
 
 
 ### 6주차 
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-||9-2. Process Synchronization 1|27:48| ||
-||10. Process Synchronization 1|27:41| ||
-||11. Process Synchronization 2|24:57| ||
+||9-2. Process Synchronization 1|27:48| |
+||10. Process Synchronization 1|27:41| |
+||11. Process Synchronization 2|24:57| |
 
 ### 7주차 
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-||12. Process Synchronization 3|1:01:49| ||
-||13. Process Synchronization 4(Concurrency Control)|26:37| ||
+||12. Process Synchronization 3|1:01:49| |
+||13. Process Synchronization 4(Concurrency Control)|26:37| |
 
 
 ### 8주차 
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-||14. Deadlocks 1|39:19| ||
-||15. Deadlocks 2|36:36| ||
+||14. Deadlocks 1|39:19| |
+||15. Deadlocks 2|36:36| |
 
 ### 9주차 
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-||16. Memory Management 1|1:06:42| ||
-||17. Memory Management 2|47:50| ||
+||16. Memory Management 1|1:06:42| |
+||17. Memory Management 2|47:50| |
 
 ### 10주차 
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-||18. Memory Management 3|38:55| ||
-||19. Memory Management 4|26:39| ||
+||18. Memory Management 3|38:55| |
+||19. Memory Management 4|26:39| |
 
 ### 11주차 
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-||20. Virtual Memory 1|44:03| ||
-||21. Virtual Memory 2|56:28| ||
+||20. Virtual Memory 1|44:03| |
+||21. Virtual Memory 2|56:28| |
 
 ### 12주차 
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-||22. File Systems|36:37| ||
-||23. File Systems Implementation 1|1:08:38| ||
-||24. File Systems Implementation 2|23:43| ||
+||22. File Systems|36:37| |
+||23. File Systems Implementation 1|1:08:38| |
+||24. File Systems Implementation 2|23:43| |
 
 ### 13주차 
 
