@@ -18,7 +18,7 @@ CS에 대해 공부하고 정리해보려고 합니다
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
 |✅|[3. System Structure & Program Execution 1](https://github.com/ChaminLee/CS_Study/blob/main/OS/3.%20System%20Structure%20%26%20Program%20Execution%201.md)|52:58|2021.12.15 |
-||4. System Structure & Program Execution 2|57:25| |
+|✅|[4. System Structure & Program Execution 2](https://github.com/ChaminLee/CS_Study/blob/main/OS/4.%20System%20Structure%20%26%20Program%20Execution%202.md)|57:25|2021.12.17 |
 
 ### 3주차 
 
