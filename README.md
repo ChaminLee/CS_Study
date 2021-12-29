@@ -32,7 +32,7 @@ CS에 대해 공부하고 정리해보려고 합니다
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-||8. Process Management 1|10:36| |
+|✅|[8. Process Management 1](https://github.com/ChaminLee/CS_Study/blob/main/OS/8.%20Process%20Management%201.md)|10:36|2021.12.29|
 ||9. Process Management 2|1:06:27| |
 
 
