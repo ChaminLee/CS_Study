@@ -41,7 +41,7 @@ CS에 대해 공부하고 정리해보려고 합니다
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
 |✅|[10. CPU Scheduling 1](https://github.com/ChaminLee/CS_Study/blob/main/OS/10.%20CPU%20Scheduling%201.md)|1:04:26|2022.01.05|
-||11-1. CPU Scheduling 2|38:56| |
+|✅|[11-1. CPU Scheduling 2](https://github.com/ChaminLee/CS_Study/blob/main/OS/11-1.%20CPU%20Scheduling%202.md)|38:56|2022.01.07|
 
 
 ### 6주차 
