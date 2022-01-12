@@ -48,8 +48,8 @@ CS에 대해 공부하고 정리해보려고 합니다
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-||11-2. Process Synchronization 1|27:48| |
-||12. Process Synchronization 1|27:41| |
+|✅|[11-2. Process Synchronization 1](https://github.com/ChaminLee/CS_Study/blob/main/OS/11-2.%20Process%20Synchronization%201.md)|27:48|2022.01.12 |
+|✅|[12. Process Synchronization 1](https://github.com/ChaminLee/CS_Study/blob/main/OS/12.%20Process%20Synchronization%201.md)|27:41|2022.01.12 |
 ||13. Process Synchronization 2|24:57| |
 
 ### 7주차 
