@@ -50,7 +50,7 @@ CS에 대해 공부하고 정리해보려고 합니다
 |:---:|---|:---:|:---:|
 |✅|[11-2. Process Synchronization 1](https://github.com/ChaminLee/CS_Study/blob/main/OS/11-2.%20Process%20Synchronization%201.md)|27:48|2022.01.12 |
 |✅|[12. Process Synchronization 1](https://github.com/ChaminLee/CS_Study/blob/main/OS/12.%20Process%20Synchronization%201.md)|27:41|2022.01.12 |
-||13. Process Synchronization 2|24:57| |
+|✅|[13. Process Synchronization 2](https://github.com/ChaminLee/CS_Study/blob/main/OS/13.%20Process%20Synchronization%202.md)|24:57|2022.01.12 |
 
 ### 7주차 
 
