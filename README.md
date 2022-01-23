@@ -57,7 +57,7 @@ CS에 대해 공부하고 정리해보려고 합니다
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
 |✅|[14. Process Synchronization 3](https://github.com/ChaminLee/CS_Study/blob/main/OS/14.%20Process%20Synchronization%203.md)|1:01:49|2022.01.21|
-||15. Process Synchronization 4(Concurrency Control)|26:37| |
+|✅|[15. Process Synchronization 4(Concurrency Control)](https://github.com/ChaminLee/CS_Study/tree/main/OS)|26:37|2022.01.23|
 
 
 ### 8주차 
