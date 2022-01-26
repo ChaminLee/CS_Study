@@ -65,7 +65,7 @@ CS에 대해 공부하고 정리해보려고 합니다
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
 |✅|[16. Deadlocks 1](https://github.com/ChaminLee/CS_Study/blob/main/OS/16.%20Deadlocks%201.md)|39:19|2022.01.26|
-||17. Deadlocks 2|36:36| |
+|✅|[17. Deadlocks 2](https://github.com/ChaminLee/CS_Study/blob/main/OS/17.%20Deadlocks%202.md)|36:36|2022.01.26|
 
 ### 9주차 
 
