@@ -10,30 +10,30 @@ CS에 대해 공부하고 정리해보려고 합니다
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-|✅|[1. 강의 소개](https://github.com/ChaminLee/CS_Study/blob/main/OS/1.%20%EA%B0%95%EC%9D%98%20%EC%86%8C%EA%B0%9C.md)|28:14|2021.12.08|
-|✅|[2. Introduction to Operating Systems](https://github.com/ChaminLee/CS_Study/blob/main/OS/2.%20Introduction%20to%20Operating%20Systems.md)|1:08:20|2021.12.08|
+|✅|[1. 강의 소개](https://github.com/ChaminLee/CS_Study/blob/main/OS/01.%20%EA%B0%95%EC%9D%98%20%EC%86%8C%EA%B0%9C.md)|28:14|2021.12.08|
+|✅|[2. Introduction to Operating Systems](https://github.com/ChaminLee/CS_Study/blob/main/OS/02.%20Introduction%20to%20Operating%20Systems.md)|1:08:20|2021.12.08|
 
 ### 2주차 
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-|✅|[3. System Structure & Program Execution 1](https://github.com/ChaminLee/CS_Study/blob/main/OS/3.%20System%20Structure%20%26%20Program%20Execution%201.md)|52:58|2021.12.15 |
-|✅|[4. System Structure & Program Execution 2](https://github.com/ChaminLee/CS_Study/blob/main/OS/4.%20System%20Structure%20%26%20Program%20Execution%202.md)|57:25|2021.12.17 |
+|✅|[3. System Structure & Program Execution 1](https://github.com/ChaminLee/CS_Study/blob/main/OS/03.%20System%20Structure%20%26%20Program%20Execution%201.md)|52:58|2021.12.15 |
+|✅|[4. System Structure & Program Execution 2](https://github.com/ChaminLee/CS_Study/blob/main/OS/04.%20System%20Structure%20%26%20Program%20Execution%202.md)|57:25|2021.12.17 |
 
 ### 3주차 
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-|✅|[5. Process 1](https://github.com/ChaminLee/CS_Study/blob/main/OS/5.%20Process%201.md)|52:58|2021.12.21|
-|✅|[6. Process 2](https://github.com/ChaminLee/CS_Study/blob/main/OS/6.%20Process%202.md)|15:30|2021.12.22 |
-|✅|[7. Process 3](https://github.com/ChaminLee/CS_Study/blob/main/OS/7.%20Process%203.md)|14:55|2021.12.22|
+|✅|[5. Process 1](https://github.com/ChaminLee/CS_Study/blob/main/OS/05.%20Process%201.md)|52:58|2021.12.21|
+|✅|[6. Process 2](https://github.com/ChaminLee/CS_Study/blob/main/OS/06.%20Process%202.md)|15:30|2021.12.22 |
+|✅|[7. Process 3](https://github.com/ChaminLee/CS_Study/blob/main/OS/07.%20Process%203.md)|14:55|2021.12.22|
 
 ### 4주차 
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-|✅|[8. Process Management 1](https://github.com/ChaminLee/CS_Study/blob/main/OS/8.%20Process%20Management%201.md)|10:36|2021.12.29|
-|✅|[9. Process Management 2](https://github.com/ChaminLee/CS_Study/blob/main/OS/9.%20Process%20Management%202.md)|1:06:27| 2022.01.02|
+|✅|[8. Process Management 1](https://github.com/ChaminLee/CS_Study/blob/main/OS/08.%20Process%20Management%201.md)|10:36|2021.12.29|
+|✅|[9. Process Management 2](https://github.com/ChaminLee/CS_Study/blob/main/OS/09.%20Process%20Management%202.md)|1:06:27| 2022.01.02|
 
 
 ### 5주차 
