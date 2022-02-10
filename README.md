@@ -78,7 +78,7 @@ CS에 대해 공부하고 정리해보려고 합니다
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-||20. Memory Management 3|38:55| |
+|✅|[20. Memory Management 3](https://github.com/ChaminLee/CS_Study/blob/main/OS/20.%20Memory%20Management%203.md)|38:55|2022.02.10|
 ||21. Memory Management 4|26:39| |
 
 ### 11주차 
