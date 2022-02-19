@@ -86,7 +86,7 @@ CS에 대해 공부하고 정리해보려고 합니다
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
 |✅|[22. Virtual Memory 1](https://github.com/ChaminLee/CS_Study/blob/main/OS/22.%20Virtual%20Memory%201.md)|44:03|2022.02.19|
-||23. Virtual Memory 2|56:28| |
+|✅|[23. Virtual Memory 2](https://github.com/ChaminLee/CS_Study/blob/main/OS/23.%20Virtual%20Memory%202.md)|56:28|2022.02.20|
 
 ### 12주차 
 
