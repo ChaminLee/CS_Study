@@ -92,7 +92,7 @@ CS에 대해 공부하고 정리해보려고 합니다
 
 |수강여부|목차|강의 시간|수강일자|
 |:---:|---|:---:|:---:|
-||24. File Systems|36:37| |
+|✅|[24. File Systems](https://github.com/ChaminLee/CS_Study/blob/main/OS/24.%20File%20Systems%201.md)|36:37|2022.02.27|
 ||25. File Systems Implementation 1|1:08:38| |
 ||26. File Systems Implementation 2|23:43| |
 
